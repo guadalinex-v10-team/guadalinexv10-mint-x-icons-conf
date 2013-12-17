@@ -1,0 +1,25 @@
+# YAML 1.1
+# Fichero de configuración de paquetes de personalización de Guadalinex v6
+
+# Nombre del paquete (minúsculas-separado-con-guiones)
+name: guadalinexv9-mint-x-icons-conf
+
+# Autor 
+author: David Amian <damian@emergya.com>
+
+# Priority
+priority: optional
+
+# Section
+section: metapackages
+
+shortdesc: "Guadalinex v9 icons theme configuration"
+
+longdesc: "This package contains all icons modifies from Mint-X theme."
+
+# Versión del paquete
+version: 9.0
+
+# Cambios en esta versión
+changes:
+    - initial release
